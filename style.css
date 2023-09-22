@@ -114,3 +114,20 @@ body {
     top: 0;
     z-index: 1;
   }
+
+  #reality {
+    z-index: 3;
+  }
+
+  #soul {
+    z-index: 1;
+  }
+
+  #time {
+    z-index: 2;
+  }
+
+  h2 {
+    position: sticky;
+    top: 65px;
+  }
